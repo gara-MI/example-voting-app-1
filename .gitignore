@@ -2,3 +2,5 @@
 project.lock.json
 bin/
 obj/
+example-voting-app/charts/postgresql
+example-voting-app/charts/redis
