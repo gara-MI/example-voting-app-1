@@ -19,3 +19,5 @@ redis:
   usePassword: false
   persistence:
     enabled: false
+  podAnnotations:
+    ars.axway.com/server-size: Medium
