@@ -14,5 +14,5 @@ dependencies:
 - name: worker
   repository: file://local-charts/worker
   version: 0.1.1
-digest: sha256:1b1bdf648eada3e4ec7028ad7b75f2117c2ac5eb1a652175a28801a5a2013899
-generated: "2020-05-15T22:12:08.2587+08:00"
+digest: sha256:4a64f87e1ee92379ac57ea24f1da3086bf22f86350cb776f2ee648866e4019d4
+generated: 2020-05-19T14:57:23.618763608+02:00
