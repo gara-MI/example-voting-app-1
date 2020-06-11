@@ -11,3 +11,4 @@ redis:
   usePassword: false
 
 replicaCount: 1
+host: ""

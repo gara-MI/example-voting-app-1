@@ -21,3 +21,8 @@ redis:
     enabled: false
   podAnnotations:
     ars.axway.com/server-size: Medium
+
+vote:
+  host: result-2ff5c4dfa3d16e2401c1e55bfc579342.spectest.rganji.apirs.net
+result:
+  host: result-2ff5c4dfa3d16e2401c1e55bfc579342.spectest.rganji.apirs.net

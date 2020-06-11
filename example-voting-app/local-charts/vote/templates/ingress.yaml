@@ -10,7 +10,8 @@ metadata:
     version: {{ .Values.image.tag | quote }}
 spec:
   rules:
-  - http:
+  - host: {{ .Values.host }}
+    http:
       paths:
       - path: /
         backend:

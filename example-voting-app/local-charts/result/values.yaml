@@ -12,3 +12,4 @@ postgresql:
   postgresPassword: postgres
 
 replicaCount: 1
+host: ""
